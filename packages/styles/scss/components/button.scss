@@ -1,0 +1,12 @@
+.button {
+  color: var(--color1);
+  &.large {
+    width: 100vw;
+  }
+  &.medium {
+    width: 50vw;
+  }
+  &.small {
+    width: 10vw;
+  }
+}
